@@ -1,9 +1,9 @@
 # ESMValTool
-# recipe_warming_stripes.yml
+# recipe_australia.yml
 ---
 documentation:
-  description: Reproducing Ed Hawkins' warming stripes visualization
-  title: Reproducing Ed Hawkins' warming stripes visualization.
+  description: Australia temperature anomalies
+  title: Australia temperature anomalies.
   authors:
     - righi_mattia
 
